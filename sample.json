@@ -1,0 +1,22 @@
+[
+    {
+      "title": "01/01/2001",
+      "start": "2020-01-01T01:23:45",
+      "requirements": [
+        {
+          "name": "STONE_1",
+          "quantity": 2
+        },
+        {
+          "name": "STONE_2",
+          "quantity": 1
+        }
+      ],
+      "rewards": [
+        {
+          "name": "TREE_5",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
