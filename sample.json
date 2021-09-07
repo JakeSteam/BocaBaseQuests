@@ -1,22 +1,46 @@
 [
-    {
-      "title": "01/01/2001",
-      "start": "2020-01-01T01:23:45",
-      "requirements": [
-        {
-          "name": "STONE_1",
-          "quantity": 2
-        },
-        {
-          "name": "STONE_2",
-          "quantity": 1
-        }
-      ],
-      "rewards": [
-        {
-          "name": "TREE_5",
-          "quantity": 1
-        }
-      ]
-    }
-  ]
+  {
+    "position": 2,
+    "title": "02/02/2002",
+    "start": "2020-02-01T01:20:00",
+    "items": [
+      {
+        "name": "IRON_1",
+        "quantity": 1,
+        "isReward": false
+      },
+      {
+        "name": "IRON_2",
+        "quantity": 2,
+        "isReward": false
+      },
+      {
+        "name": "TREE_7",
+        "quantity": 2,
+        "isReward": true
+      }
+    ]
+  },
+  {
+    "position": 1,
+    "title": "01/01/2001",
+    "start": "2020-01-01T01:23:45",
+    "items": [
+      {
+        "name": "STONE_1",
+        "quantity": 2,
+        "isReward": false
+      },
+      {
+        "name": "STONE_2",
+        "quantity": 1,
+        "isReward": false
+      },
+      {
+        "name": "TREE_5",
+        "quantity": 1,
+        "isReward": true
+      }
+    ]
+  }
+]
