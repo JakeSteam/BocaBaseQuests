@@ -5,17 +5,17 @@
     "start": "2020-02-01T01:20:00",
     "items": [
       {
-        "name": "IRON_1",
+        "item": "IRON_1",
         "quantity": 1,
         "isReward": false
       },
       {
-        "name": "IRON_2",
+        "item": "IRON_2",
         "quantity": 2,
         "isReward": false
       },
       {
-        "name": "TREE_7",
+        "item": "TREE_7",
         "quantity": 2,
         "isReward": true
       }
@@ -27,17 +27,17 @@
     "start": "2020-01-01T01:23:45",
     "items": [
       {
-        "name": "STONE_1",
+        "item": "STONE_1",
         "quantity": 2,
         "isReward": false
       },
       {
-        "name": "STONE_2",
+        "item": "STONE_2",
         "quantity": 1,
         "isReward": false
       },
       {
-        "name": "TREE_5",
+        "item": "TREE_5",
         "quantity": 1,
         "isReward": true
       }
